@@ -16,5 +16,5 @@ if (str(s.origin_country) == "United States"):
 ## transparent-crosshair
 > Small C# program designed to show square in the middle of screen.
 > Square is transparent so you can't click it by mistake and unfocus from game window.
-> Color of crosshair is customizable on program tray icon
+> Color of crosshair is customizable on program tray icon.
 > Compile source code with and you should be good to go.
