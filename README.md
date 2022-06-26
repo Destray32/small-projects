@@ -1,4 +1,4 @@
-# Repository with collection of my small projects in various PL.
+# Repository with collection of my small projects in various PLs.
 
 
 ## discord-bot
