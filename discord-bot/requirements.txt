@@ -1,0 +1,5 @@
+git+https://github.com/Rapptz/discord.py
+git+https://github.com/openskynetwork/opensky-api.git#subdirectory=python
+python-dotenv==0.19.2
+async-timeout==3.0.1
+yt-dlp==2022.2.4
